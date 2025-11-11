@@ -1,3 +1,6 @@
+# lista-tarefas
+>>>>>>> 8d1ff93950e1748fe05056f413acaae06070a9a0
+=======
 # 📋 Lista de Tarefas Minimalista
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github)](https://github.com/rreis-nt/lista-tarefas)
@@ -83,3 +86,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 ⭐ **Dê uma estrela no repositório se gostou do projeto!**
+=======
+# lista-tarefas
+>>>>>>> 8d1ff93950e1748fe05056f413acaae06070a9a0
